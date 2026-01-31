@@ -48,9 +48,14 @@ class MyAccountPage(BasePage):
         pickle.dump(self.driver.get_cookies(), open(cookies_path, "wb"))
 
     def download_cookies(self):
-        self.driver.delete_all_cookies()
         cookies_path = os.path.dirname(__file__) + "/../cookies/cookies.pkl"
-        cookies = pickle.load(open(cookies_path, "rb"))
+        # важно: сначала открываем страницу сайта
+        self.driver.get('https://pizzeria.skillbox.cc/')
+        self.driver.delete_all_cookies()
+        # загружаем cookies из файла
+        file = open(cookies_path, "rb")
+        cookies = pickle.load(file)
+        file.close()
         for cookie in cookies:
             self.driver.add_cookie(cookie)
         self.driver.refresh()

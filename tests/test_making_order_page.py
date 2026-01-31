@@ -21,10 +21,6 @@ class TestMakingOrderPage(BaseTest):
         with allure.step('Проверить загрузку страницы с наличием сообщения о требовании авторизации'):
             self.making_order_page.check_text_authorization_requirements()
 
-    # для сохранениях куков перед тест кейсом №17,18,19
-    def test_save_cookies(self):
-        self.my_account_page.save_cookies()
-
     @allure.title('Переход к оформлению заказа')
     def test_keys17(self):
         # загрузка куков и очистка корзины с предыдущей сессии (выполнение предусловий тест-кейса)

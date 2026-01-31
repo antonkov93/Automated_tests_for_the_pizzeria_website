@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11f5c305-a3bf-4b02-ae21-710d661bdbcf" name="Changes" comment="Version01">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SkillboxFinalWork.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;antonkov93&quot;
+  }
+}</component>
+  <component name="GitLabMergeRequestFiltersHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPENED&quot;,
+    &quot;assignee&quot;: {
+      &quot;type&quot;: &quot;org.jetbrains.plugins.gitlab.mergerequest.ui.filters.GitLabMergeRequestsFiltersValue.MergeRequestsMemberFilterValue.MergeRequestsAssigneeFilterValue&quot;,
+      &quot;username&quot;: &quot;project_621455_bot_537faea7bc16c52f09717551ff134990&quot;,
+      &quot;fullname&quot;: &quot;SkillBox&quot;
+    }
+  }
+}</component>
+  <component name="GitLabMergeRequestsSettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;first&quot;: &quot;https://gitlab.skillbox.ru/anton_kovalev_4/python-autotests-basic.git&quot;,
+    &quot;second&quot;: &quot;23ab938f-056a-4f28-b694-ac9318dbc6f8&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/antonkov93/Automated_tests_for_the_pizzeria_website.git",
+    "accountId": "ac54aca7-7296-4568-af63-ca7f783b9344"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="34NCRDY5l3SODbr6ojM1NBuLfvk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for test_bonus_page.TestBonusPage.test_keys24.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_cart_page.TestCartPage.test_keys07.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_cart_page.TestCartPage.test_keys08.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_cart_page.TestCartPage.test_keys20.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_cart_page.TestCartPage.test_keys21.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_cart_page.TestCartPage.test_keys22.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_cart_page.TestCartPage.test_keys23.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_cart_page.TestCartPage.test_keys_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_cart_page.TestCartPage.test_keys_07.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_checkout_page.TestCheckoutPage.test_keys13.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_login_page.TestLoginPage.test_keys01.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_main_page.TestMainPage.test_keys01.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_main_page.TestMainPage.test_keys02.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_main_page.TestMainPage.test_keys03.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_main_page.TestMainPage.test_keys04.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_main_page.TestMainPage.test_keys05.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_making_order_page.TestMakingOrderPage.test_keys13.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_making_order_page.TestMakingOrderPage.test_keys17.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_making_order_page.TestMakingOrderPage.test_keys18.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_menu_page.TestMenuPage.test_keys09.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_menu_page.TestMenuPage.test_keys10.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_menu_page.TestMenuPage.test_keys11.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_menu_page.TestMenuPage.test_keys12.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_my_account_page.TestMyAccountPage.test_authoriazation.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_my_account_page.TestMyAccountPage.test_keys16.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_my_account_page.TestMyAccountPage.test_save_cookies.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_order_received_page.TestOrderReceivedPage.test_keys19.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_order_received_page.TestOrderReceivedPage.test_keys_cookies.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_product_page.TestProductPage.test_keys06.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_register_page.TestRegisterPage.test_keys01.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_register_page.TestRegisterPage.test_keys14.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_register_page.TestRegisterPage.test_keys15.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_register_page.TestRegisterPage.test_keys18.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ProjectPyCharm/SkillboxFinalWork&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="PyFindUsagesOptions">
+    <option name="isSearchForTextOccurrences" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ProjectPyCharm\SkillboxFinalWork\drivers" />
+      <recent name="D:\ProjectPyCharm\SkillboxFinalWork" />
+      <recent name="D:\ProjectPyCharm\SkillboxFinalWork\tests" />
+      <recent name="D:\ProjectPyCharm\SkillboxFinalWork\base" />
+      <recent name="D:\ProjectPyCharm\SkillboxFinalWork\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test_bonus_page.TestBonusPage.test_keys24">
+    <configuration name="Python tests for test_bonus_page.TestBonusPage.test_keys24" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="SkillboxFinalWork" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_bonus_page.TestBonusPage.test_keys24&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_cart_page.TestCartPage.test_keys08" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="SkillboxFinalWork" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_cart_page.TestCartPage.test_keys08&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_making_order_page.TestMakingOrderPage.test_keys17" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="SkillboxFinalWork" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_making_order_page.TestMakingOrderPage.test_keys17&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_order_received_page.TestOrderReceivedPage.test_keys19" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="SkillboxFinalWork" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_order_received_page.TestOrderReceivedPage.test_keys19&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_order_received_page.TestOrderReceivedPage.test_keys_cookies" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="SkillboxFinalWork" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_order_received_page.TestOrderReceivedPage.test_keys_cookies&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_bonus_page.TestBonusPage.test_keys24" />
+        <item itemvalue="Python tests.Python tests for test_making_order_page.TestMakingOrderPage.test_keys17" />
+        <item itemvalue="Python tests.Python tests for test_order_received_page.TestOrderReceivedPage.test_keys19" />
+        <item itemvalue="Python tests.Python tests for test_order_received_page.TestOrderReceivedPage.test_keys_cookies" />
+        <item itemvalue="Python tests.Python tests for test_cart_page.TestCartPage.test_keys08" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4c141bd692a7-e2d783800521-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26927.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11f5c305-a3bf-4b02-ae21-710d661bdbcf" name="Changes" comment="" />
+      <created>1761044631701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761044631701</updated>
+    </task>
+    <task id="LOCAL-00001" summary="FinalWork_version01">
+      <option name="closed" value="true" />
+      <created>1762441699851</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762441699852</updated>
+    </task>
+    <task id="LOCAL-00002" summary="FinalWork_version01">
+      <option name="closed" value="true" />
+      <created>1762698057861</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1762698057861</updated>
+    </task>
+    <task id="LOCAL-00003" summary="FinalWork_version03">
+      <option name="closed" value="true" />
+      <created>1762762175270</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762762175270</updated>
+    </task>
+    <task id="LOCAL-00004" summary="FinalWork_version04">
+      <option name="closed" value="true" />
+      <created>1762807189796</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1762807189796</updated>
+    </task>
+    <task id="LOCAL-00005" summary="FinalWork_version05">
+      <option name="closed" value="true" />
+      <created>1762807346733</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1762807346733</updated>
+    </task>
+    <task id="LOCAL-00006" summary="FinalWork_version06">
+      <option name="closed" value="true" />
+      <created>1769867479257</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1769867479257</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="FinalWork_version01" />
+    <MESSAGE value="FinalWork_version03" />
+    <MESSAGE value="FinalWork_version04" />
+    <MESSAGE value="FinalWork_version05" />
+    <MESSAGE value="FinalWork_version06" />
+    <option name="LAST_COMMIT_MESSAGE" value="FinalWork_version06" />
+  </component>
+</project>
