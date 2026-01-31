@@ -1,0 +1,4 @@
+INFO     root:browser.py:12 Preparing the Chrome Browser...
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+DEBUG    urllib3.connectionpool:connectionpool.py:1049 Starting new HTTPS connection (1): googlechromelabs.github.io:443

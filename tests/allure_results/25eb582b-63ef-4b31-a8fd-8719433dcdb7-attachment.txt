@@ -1,0 +1,12 @@
+INFO     root:browser.py:12 Preparing the Chrome Browser...
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+DEBUG    urllib3.connectionpool:connectionpool.py:1049 Starting new HTTPS connection (1): googlechromelabs.github.io:443
+DEBUG    urllib3.connectionpool:connectionpool.py:544 https://googlechromelabs.github.io:443 "GET /chrome-for-testing/latest-patch-versions-per-build.json HTTP/1.1" 200 13954
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+DEBUG    urllib3.connectionpool:connectionpool.py:1049 Starting new HTTPS connection (1): googlechromelabs.github.io:443
+DEBUG    urllib3.connectionpool:connectionpool.py:544 https://googlechromelabs.github.io:443 "GET /chrome-for-testing/latest-patch-versions-per-build.json HTTP/1.1" 200 13954
+INFO     WDM:logger.py:11 There is no [win64] chromedriver "142.0.7444.61" for browser google-chrome "142.0.7444" in cache
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+DEBUG    urllib3.connectionpool:connectionpool.py:1049 Starting new HTTPS connection (1): googlechromelabs.github.io:443
+DEBUG    urllib3.connectionpool:connectionpool.py:544 https://googlechromelabs.github.io:443 "GET /chrome-for-testing/latest-patch-versions-per-build.json HTTP/1.1" 200 13954
