@@ -6,7 +6,7 @@
 
 ---
 
-### Тест-кейсы: https://docs.google.com/document/d/1-_aV9O_LzD2yqtlq3fRJMLHrGe12YJ5cPPOMv59_gy0/edit?tab=t.0#heading=h.23nejaknpbek
+### Тестовые сценарии: https://docs.google.com/document/d/1-_aV9O_LzD2yqtlq3fRJMLHrGe12YJ5cPPOMv59_gy0/edit?tab=t.0#heading=h.23nejaknpbek
 
 ---
 
