@@ -2,15 +2,15 @@ import allure
 
 
 def download_cookies_and_clear_cart(test_instance):
-    """Загружает cookies и очищает корзину"""
-    test_instance.my_account_page.download_cookies()
+    """Проверяет авторизацию, загружает cookies и очищает корзину"""
+    test_instance.my_account_page.check_and_refresh_auth()
     test_instance.cart_page.open()
     test_instance.cart_page.clear_cart_and_remove_coupon()
 
 
 def download_cookies_and_filling_cart(test_instance):
-    """Загружает cookies и заполняет корзину товарами"""
-    test_instance.my_account_page.download_cookies()
+    """Проверяет авторизацию, загружает cookies и заполняет корзину"""
+    test_instance.my_account_page.check_and_refresh_auth()
     test_instance.menu_page.open()
     test_instance.cart_page.filling_cart()
 
