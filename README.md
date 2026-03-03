@@ -1,8 +1,4 @@
-# Авто-тесты на Selenium для веб-сайта пиццерии
-
----
-
-### Тестируемый веб-сайт: https://pizzeria.skillbox.cc/
+# Авто-тесты на Selenium для [веб-приложения пиццерии](https://pizzeria.skillbox.cc/)
 
 ---
 
@@ -16,10 +12,10 @@
 
 ### Для запуска проекта локально нужно:
 
-1. Клонировать проектв в свою IDE командой: git clone https://github.com/antonkov93/Automated_tests_for_the_pizzeria_website.git
-2. Создать виртуальное окружение командой: python -m venv .venv
-3. Активировать окружение командой (актуально для Windows): .venv/Scripts/activate
-4. Установить зависимости из файла "requirements.txt" командой: python -m pip install -r requirements.txt
-5. Запустить все тесты командой: python -m pytest
+1. Клонировать проектв в свою IDE командой: `git clone https://github.com/antonkov93/Automated_tests_for_the_pizzeria_website.git`
+2. Создать виртуальное окружение командой: `python -m venv .venv`
+3. Активировать окружение командой (актуально для Windows): `.venv/Scripts/activate`
+4. Установить зависимости из файла "requirements.txt" командой: `python -m pip install -r requirements.txt`
+5. Запустить все тесты командой: `python -m pytest`
 
    
