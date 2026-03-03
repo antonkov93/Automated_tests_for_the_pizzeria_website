@@ -59,3 +59,15 @@ class MyAccountPage(BasePage):
         for cookie in cookies:
             self.driver.add_cookie(cookie)
         self.driver.refresh()
+
+    def check_and_refresh_auth(self):
+        self.download_cookies()
+        self.open()
+        logout_button = self.driver.find_elements(By.XPATH, '//p/a[contains(text(),"Выйти")]')
+        # Если кнопка "Выйти" НЕ найдена - cookies протухли, делаем новую авторизацию
+        if len(logout_button) == 0:
+            print("Cookies протухли. Делаем новую авторизацию...")
+            self.save_cookies()
+        else:
+            print("Cookies валидны. Авторизация работает!")
+            
