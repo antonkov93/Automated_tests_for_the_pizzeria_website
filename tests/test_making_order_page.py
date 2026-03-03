@@ -23,8 +23,6 @@ class TestMakingOrderPage(BaseTest):
 
     @allure.title('Переход к оформлению заказа')
     def test_keys17(self):
-        # пересохранение куков, т.к. со временем они протухают
-        self.my_account_page.save_cookies()
         # загрузка куков и очистка корзины с предыдущей сессии (выполнение предусловий тест-кейса)
         download_cookies_and_clear_cart(self)
         # начало выполнения тест-кейса
